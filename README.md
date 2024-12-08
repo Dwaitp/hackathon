@@ -12,9 +12,9 @@ Requirements
 
 Install/Run
 -
-    git clone https://github.com/Dwaitp/kind.git
+    git clone https://github.com/Dwaitp/hackathon.git
 
-    cd /kind/kind
+    cd /hackathon/kind
     
     (p)npm run dev
 Navigate to: [localhost:5173](http://localhost:5173/)
