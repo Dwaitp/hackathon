@@ -8,6 +8,7 @@ Requirements
  2. Tailwind CSS
  3. NPM/PNPM
  4. jsPDF
+ 5. vite
 
 Install/Run
 -
